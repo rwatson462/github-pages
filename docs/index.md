@@ -8,7 +8,7 @@ function testingCodeHighlighting(): void {
 
     const hope = "I hope"
 
-    return "quite cool, I ${hope}"
+    return "quite cool, ${hope}"
 }
 ```
 
